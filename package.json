@@ -21,6 +21,14 @@
   ],
   "author": "Stacks Builder",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cryptoflops/gm-on-stacks-sdk.git"
+  },
+  "bugs": {
+    "url": "https://github.com/cryptoflops/gm-on-stacks-sdk/issues"
+  },
+  "homepage": "https://github.com/cryptoflops/gm-on-stacks-sdk#readme",
   "dependencies": {
     "@stacks/transactions": "^6.15.0",
     "@stacks/network": "^6.17.0"
