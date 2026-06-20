@@ -1,5 +1,5 @@
 {
-  "name": "gm-on-stacks-sdk",
+  "name": "@cryptoflops/gm-on-stacks-sdk",
   "version": "1.0.1",
   "description": "Utility SDK for the GM on Stacks social project.",
   "type": "module",
@@ -35,5 +35,8 @@
   },
   "devDependencies": {
     "typescript": "^5.4.5"
+  },
+  "publishConfig": {
+    "access": "public"
   }
 }
